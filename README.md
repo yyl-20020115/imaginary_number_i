@@ -11,6 +11,8 @@ This is the pre-print edition.
 The current license is: Creative Commons Zero v1.0 Universal, and please 
 contact me if there's any copyright issue.
 
+P.S. You're always welcome to translate this paper from Chinese into other languages.
+
 Best Regards,
 
 Wei Yang
