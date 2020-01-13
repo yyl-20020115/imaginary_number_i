@@ -18,3 +18,6 @@ Best Regards,
 Wei Yang
 
 email: yyl_20050115@hotmail.com
+
+Bitcoin donation is welcomed for the done and continuing work.
+BTC address:  bc1qe4cjj0tw7u46y2c6t5qsc78rcnyc0xttj2mv93
