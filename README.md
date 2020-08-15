@@ -19,9 +19,3 @@ Wei Yang
 
 email: yyl_20050115@hotmail.com
 
-Bitcoin donation is welcomed for the done and continuing work.
-BTC address:  bc1qe4cjj0tw7u46y2c6t5qsc78rcnyc0xttj2mv93
-
-Alipy QRCode:
-![Image QR](https://github.com/yyl-20020115/imaginary_number_i/blob/master/alipay.png)
-
