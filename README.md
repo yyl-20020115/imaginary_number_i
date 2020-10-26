@@ -5,6 +5,8 @@ Please download files with
 
 git clone https://github.com/yyl-20020115/imaginary_number_i.git
 
+git clone https://gitee.com/yyl_20020115/imaginary_number_i.git
+
 
 This is the pre-print edition.
 
