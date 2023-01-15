@@ -5,9 +5,6 @@ Please download files with
 
 git clone https://github.com/yyl-20020115/imaginary_number_i.git
 
-git clone https://gitee.com/yyl_20020115/imaginary_number_i.git
-
-
 This is the pre-print edition.
 
 The current license is: Creative Commons Zero v1.0 Universal, and please 
